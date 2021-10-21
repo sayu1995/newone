@@ -1,0 +1,17 @@
+{
+    "name": "tmb/testmail",
+    "autoload": {
+        "psr-4": {
+            "Tmb\\Testmail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AppLK",
+            "email": "applkofficial@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
